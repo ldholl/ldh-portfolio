@@ -1,0 +1,50 @@
+header{
+    padding-bottom: 20px;
+    border-bottom: black solid 5px;
+    margin-bottom: 30px;
+    
+}
+
+.finished {
+    color: black;
+    text-align: center;
+}
+
+.column p {
+    color: black;
+    text-align: center;
+}
+.finished:hover{
+    
+    box-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #8836f4fd,
+      0 0 82px #8836f4fd,
+      0 0 92px #8836f4fd,
+      0 0 102px #8836f4fd;
+    
+}
+
+.unfinished {
+    width:392.86px;
+    height: 209.33px;
+    color: black;
+    text-align: center;
+    background-color: black;
+}
+
+.unfinished:hover {
+    color: white;
+    box-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #8836f4fd,
+      0 0 82px #8836f4fd,
+      0 0 92px #8836f4fd,
+      0 0 102px #8836f4fd;
+      background-color: rgba(0, 0, 0, 0.351)
+}
+
