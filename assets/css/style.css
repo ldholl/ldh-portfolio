@@ -131,6 +131,9 @@ justify-content: center;
     background-color: ;
 }
 
+.contact-link{
+    font-size: 40px;
+}
 .footer{
     font-size: 60px;
     align-items: center;
